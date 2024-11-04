@@ -1,0 +1,63 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+
+# Django migrations
+*/migrations/*.py
+*/migrations/*.pyc
+*/migrations/__init__.py
+
+# Database files
+db.sqlite3
+
+# Local settings
+local_settings.py
+
+# Environment variables
+.env
+
+# Static files and media files
+/static/
+/media/
+
+# IDE and Editor files
+.idea/
+*.swp
+*.sublime-project
+*.sublime-workspace
+.vscode/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+pip-log.txt
+pip-delete-this-directory.txt
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Log files
+*.log
+
+# Other
+*.pot
+*.pyc
+*.pyo
+*.pyd

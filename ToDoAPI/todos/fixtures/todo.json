@@ -1,0 +1,42 @@
+[
+    {
+        "model": "todos.ToDo",
+        "fields": {
+            "title": "Investigate & Estimate",
+            "description": "Analyze requirements and estimate time and resources needed.",
+            "completed": true,
+            "created_at": "2024-11-05T00:00:00.000Z",
+            "updated_at": "2024-11-05T00:00:00.000Z"
+        }
+    },
+    {
+        "model": "todos.ToDo",
+        "fields": {
+            "title": "Coding",
+            "description": "Develop the feature or apply fixes according to project standards.",
+            "completed": false,
+            "created_at": "2024-11-05T00:00:00.000Z",
+            "updated_at": "2024-11-05T00:00:00.000Z"
+        }
+    },
+    {
+        "model": "todos.ToDo",
+        "fields": {
+            "title": "Fix Bug",
+            "description": "Identify, debug, and resolve reported issues.",
+            "completed": false,
+            "created_at": "2024-11-05T00:00:00.000Z",
+            "updated_at": "2024-11-05T00:00:00.000Z"
+        }
+    },
+    {
+        "model": "todos.ToDo",
+        "fields": {
+            "title": "Unit Testing",
+            "description": "Write and execute tests to ensure code quality and coverage.",
+            "completed": false,
+            "created_at": "2024-11-05T00:00:00.000Z",
+            "updated_at": "2024-11-05T00:00:00.000Z"
+        }
+    }
+]
